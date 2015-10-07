@@ -1,4 +1,6 @@
 # vestacp-danish
 VestaCP Danish translation
 
-Made for Version 0.9.8-14
+For Version 0.9.8-14
+
+Made by Michal Skogemann for MShost (http://mshost.dk)
