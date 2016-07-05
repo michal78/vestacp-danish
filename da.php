@@ -31,7 +31,7 @@ $LANG['da'] = array(
     'Add DNS Domain'  => 'Tilføj DNS Domæne',
     'Add DNS Record'  => 'Tilføj DNS Record',
     'Add Mail Domain'  => 'Tilføj Mail Domæne',
-    'Add Mail Account'  => 'Tilføj Mail Konto',
+    'Add Mail Account'  => 'Tilføj Mailkonto',
     'Add Database'  => 'Tilføj Database',
     'Add Cron Job'  => 'Tilføj Cron Job',
     'Create Backup'  => 'Opret Backup',
@@ -453,7 +453,7 @@ $LANG['da'] = array(
     'GREETINGS' => "Hej,\n",
     'ACCOUNT_READY' => "Din konto er oprettet og er klar til brug.\n\nhttps://%s/login/\nBrugernavn: %s\nAdgangskode: %s\n\n--\nVesta Kontrolpanel\n",
 
-    'FTP login credentials'  => 'FTP login oplysninger',
+    'FTP login credentials'  => 'FTP loginoplysninger',
     'FTP_ACCOUNT_READY' => "FTP konto blev oprettet og er klar til brug.\n\nHost: %s\nBrugernavn: %s_%s\nAdgangskode: %s\n\n--\nVesta Kontrolpanel\n",
 
     'Database Credentials'  => 'Databaseoplysninger',
@@ -492,7 +492,7 @@ $LANG['da'] = array(
     'preview' => 'preview',
     'Reseller Role' => 'Forhandlerrolle',
     'Web Config Editor' => 'Web Config Editor',
-    'Template Manager' => 'Skabelonanager',
+    'Template Manager' => 'Skabelonmanager',
     'Backup Migration Manager' => 'Backup Migration Manager',
     'FileManager' => 'Filmanager',
 
